@@ -1,0 +1,63 @@
+# utf-8 lf
+#
+# 2021-01-25 add AltGr, Shift+AltGr layers (* - AOP)
+
+*** Українська РСТ 2019/91 - AOP
+ '  !  "  №  ;  :  ,  .  *  (  )  -  =  BS
+TAB  й  ц  у  к  е  н  г  ш  щ  з  х  ґ  /
+CAPS  ф  и  в  а  п  р  о  л  д  ж  э  RET
+SHF \  я  ч  с  м  і  т  ь  б  ю  ї  SHIFT
+Ctr Alt  [---------SPACE---------] Alt Ctr  Dec.sep ,
+
++ SHIFT
+ ?  1  2  3  4  5  6  7  8  9  0  _  +  BS
+TAB  Й  Ц  У  К  Е  Н  Г  Ш  Щ  З  Х  Ґ  %
+CAPS  Ф  И  В  А  П  Р  О  Л  Д  Ж  Є  RET
+SHF /  Я  Ч  С  М  І  Т  Ь  Б  Ю  Ї  SHIFT
+Ctr Alt  [---------SPACE---------] Alt Ctr
+
++ AltGr (Alt+Ctrl)
+                      …                 BS
+TAB           ®  ™              §     ъ   
+CAPS        °                       э  RET
+SHF          ©     ы        «  »  ё  SHIFT
+Ctr Alt  [---------SPACE---------] Alt Ctr
+
++ SHIFT + AltGr (Alt+Ctrl)
+                                        BS
+TAB                                   Ъ
+CAPS                                Э  RET
+SHF                Ы              Ё  SHIFT
+Ctr Alt  [---------SPACE---------] Alt Ctr
+
+
+
+*** Русская 2019/91 - AOP
+ '  !  "  №  ;  :  ,  .  *  (  )  -  =  BS
+TAB  й  ц  у  к  е  н  г  ш  щ  з  х  ъ  /
+CAPS  ф  ы  в  а  п  р  о  л  д  ж  э  RET
+SHF \  я  ч  с  м  и  т  ь  б  ю  ё  SHIFT
+Ctr Alt  [---------SPACE---------] Alt Ctr  Dec.sep ,
+
++ SHIFT
+ ?  1  2  3  4  5  6  7  8  9  0  _  +  BS
+TAB  Й  Ц  У  К  Е  Н  Г  Ш  Щ  З  Х  Ъ  %
+CAPS  Ф  Ы  В  А  П  Р  О  Л  Д  Ж  Э  RET
+SHF /  Я  Ч  С  М  И  Т  Ь  Б  Ю  Ё  SHIFT
+Ctr Alt  [---------SPACE---------] Alt Ctr  Dec.sep ,
+
++ AltGr (Alt+Ctrl)
+                      …                 BS
+TAB           ®  ™              §     ґ   
+CAPS        °                       є  RET
+SHF          ©     і        «  »  ї  SHIFT
+Ctr Alt  [---------SPACE---------] Alt Ctr
+
++ SHIFT + AltGr (Alt+Ctrl)
+                                        BS
+TAB                                   Ґ
+CAPS                                Є  RET
+SHF                І              Ї  SHIFT
+Ctr Alt  [---------SPACE---------] Alt Ctr
+
+
